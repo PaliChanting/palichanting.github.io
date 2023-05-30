@@ -11,9 +11,6 @@ Please do not share publicly.
 
 - ref to main book on meter
 - mise en page : Letter spacing
-
-## In Construction
-
 - Audio library in ressources
   - [Chanting Drive](https://drive.google.com/drive/folders/0B05RvWGBPleUVW5mUEJaV1R4Ukk?resourcekey=0-MRC6OGZK4DVYtnL_QwupsA&usp=sharing) a lot of stuff from different traditions
   - The website is a bit funny looking [https://audtip.org/](https://audtip.org/)
