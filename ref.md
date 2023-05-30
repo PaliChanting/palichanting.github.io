@@ -37,6 +37,7 @@ title: References
 
 - Pali Wikipedia [wikipedia.org](https://en.wikipedia.org/wiki/Pali)
 - Pali (same ?) [citizendium.org](https://citizendium.org/wiki/Pali)
+- find meter https://www.ancient-buddhist-texts.net/Textual-Studies/Metre-Tables/Tables-Filter.htm
 - Indic Consonant Compass [jcademy.com](http://media.jcademy.com/12-lang-indic-compass-large-3.1/story.html)
 - Scanning a poem [wikihow.com](https://www.wikihow.com/Scan-a-Poem)
 - Scansion https://en.wikipedia.org/wiki/Scansion
