@@ -1,7 +1,5 @@
-# [cittadhammo.github.io](https://cittadhammo.github.io/)
+# [PaliChanting.github.io](https://palichanting.github.io/)
 
-Cittadhammo Bhikkhu (Lancelot Moreau)
-
-Personal website. Please do not share publicly.
+Website for Simple Pali Chanting Guide
 
 
