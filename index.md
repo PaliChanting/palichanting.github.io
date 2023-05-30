@@ -5,9 +5,12 @@ title: Simple Pali Chanting Guide 2.0
  
 Please do not share publicly.
 
-# To Do
+[Main document]([url](https://docs.google.com/document/d/1mYauJmbzakn-sKsixNkDrtxF8IX_6mIKOFgd5kquMyg/edit)) 
 
-# Pages
+## To Do
+
+
+## Pages
 
 - Guide
 - Exercices
