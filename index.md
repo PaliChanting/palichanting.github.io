@@ -16,14 +16,10 @@ Please do not share publicly.
 
 - Audio library in ressources
   - [Chanting Drive](https://drive.google.com/drive/folders/0B05RvWGBPleUVW5mUEJaV1R4Ukk?resourcekey=0-MRC6OGZK4DVYtnL_QwupsA&usp=sharing) a lot of stuff from different traditions
-  - The website is a bit funny looking
-  - [https://audtip.org/](https://audtip.org/)
-  - All files from audtip on archive.org
-  - [https://archive.org/details/@audtip_org_managers](https://archive.org/details/@audtip_org_managers)
-  - The forum I was reading
-  - [https://discourse.suttacentral.net/t/do-we-need-a-new-chanting-style/6532/30](https://discourse.suttacentral.net/t/do-we-need-a-new-chanting-style/6532/30)
-  - A lot of sutra reading in english and pali chanted by Jeewananda bhante
-  - [https://www.paliaudio.com/](https://www.paliaudio.com/)
+  - The website is a bit funny looking [https://audtip.org/](https://audtip.org/)
+  - All files from audtip on archive.org[https://archive.org/details/@audtip_org_managers](https://archive.org/details/@audtip_org_managers)
+  - The forum I was reading[https://discourse.suttacentral.net/t/do-we-need-a-new-chanting-style/6532/30](https://discourse.suttacentral.net/t/do-we-need-a-new-chanting-style/6532/30)
+  - A lot of sutra reading in english and pali chanted by Jeewananda bhante [https://www.paliaudio.com/](https://www.paliaudio.com/)
   - giripadgoda
 - Correction to exercise
   - Automatic algorithme
