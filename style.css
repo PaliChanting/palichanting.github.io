@@ -1,3 +1,13 @@
+@font-face {
+	font-family: "itmsu";
+	src: url("../assets/fonts/itmsu.ttf");
+}
+
+.scansion{
+    font-family:itmsu;
+    // font-size:14px;
+}
+
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html{
     font-family:sans-serif;
@@ -156,6 +166,7 @@ input,select,textarea,button{
     font-size:inherit;
     line-height:inherit
 }
+
 body{
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     font-size:14px;
