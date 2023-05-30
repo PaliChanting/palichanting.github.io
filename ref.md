@@ -24,6 +24,8 @@ title: References
 
 ## Chanting Books
 
+- Ajahn Kalyano Chanting book
+- Bhikkhu Chanting Book, Bhikkhu Manual
 - Safeguard Recitals a book of protection chants by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Texts-and-Translations/Safeguard/Safeguard-Recitals.pdf) (the appendix contain an excellent short prosody of these chants)
 - Amaravati Chanting Book [amaravati.org](https://www.amaravati.org/dhamma-books/chanting-book/)
 - Traditional Pali Chants Book In English by Wat Luang Phor Sodh Dhammakāyārām  
@@ -41,6 +43,8 @@ title: References
 - Prosody
 
 ## Fonts
+
+- Music Noto
 
 ## Other
 
