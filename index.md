@@ -20,5 +20,8 @@ Please do not share publicly.
 - References
 - Audio Files
 
+## Chart
+
+![ellipse13026](https://github.com/PaliChanting/palichanting.github.io/assets/135040073/e330958e-ee95-47b4-8811-d9b7fed93ca1)
 
 
