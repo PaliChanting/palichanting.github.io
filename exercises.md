@@ -55,7 +55,7 @@ Cut the words and give the appropriate measure :
 
 Ve|ney|ya|da|ma|no|pā|ye sab|ba|so pā|ra|miṃ ga|to  
 
-`ㅡ ㅡ ⏑  ⏑  ⏑ ㅡ ㅡ ㅡ ㅡ ⏑ ㅡ ㅡ ⏑ ㅡ ⏑ ㅡ`
+`−⏑⏑−−⏑⏑−−⏑⏑−−⏑⏑⏑⏑⏑⏑−−−−−−⏑⏑−`
 
 Amoghavacano buddho abhiññāyānusāsako  
   
