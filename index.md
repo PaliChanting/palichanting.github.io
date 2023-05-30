@@ -9,6 +9,8 @@ Please do not share publicly.
 
 ## To Do
 
+- ref to main book on meter 
+- mise en page : Letter spacing
 
 ## Pages
 
