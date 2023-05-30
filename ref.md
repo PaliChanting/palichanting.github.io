@@ -16,6 +16,11 @@ title: References
 - Introduction to Pali, A.K. Warder (1999)
 - Pali Meter A.K. Warder
 - Von Hinuber's Selected Papers on Pali studies
+- EARLY BUDDHIST ORAL TRADITION Textual Formation and Transmission by BHIKKHU ANĀLAYO 
+- Analysis of the Pattimokkha by Bhikkhu Nyanatusita
+- Authenticity of Early Buddhist Text by Sujato Bhikkhu
+- EBT vs Theravada by Bhikkhu Sujato
+- Begginings by Samanera Bodhesako 
 
 ## Chanting Books
 
