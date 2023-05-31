@@ -27,10 +27,10 @@ Yan|taṃ sat|te|hi duk|khe|na ñey|yaṃ a|nat|ta|lak|kha|ṇaṃ
 `−− −−⏑ −−⏑ −− ⏑−⏑−⏑−`
 
 At∣ta∣vā∣dat∣ta∣sañ∣ñā∣ṇaṃ sammadeva vimocanaṃ  
-`−− −−⏑ −−⏑ −− ⏑−⏑−⏑−`
+`−⏑−−⏑−−− −⏑−⏑ ⏑−⏑−`
 
 Sam|bud|dho taṃ pa|kā|se|si diṭ|ṭha|sac|cā|na yo|gi|naṃ  
-`−− −−⏑ −−⏑ −− ⏑−⏑−⏑−`
+`−−− − ⏑−−⏑ −⏑−−⏑ −⏑−`
 
 Uttariṃ paṭivedhāya bhāvetuṃ ñāṇamuttamaṃ  
   
