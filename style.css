@@ -4930,8 +4930,11 @@ pre{
     background-color:rgba(27,31,35,0.05);
     border-radius:3px
 	*/
-
-    font-family:itmsu;
+font-size: xx-large;
+    font-family: unset;
+    font-weight: 300;
+    letter-spacing: 5px;
+    /*font-family:itmsu;*/
 }
 }
 .markdown-body code br,.markdown-body tt br{
