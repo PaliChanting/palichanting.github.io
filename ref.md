@@ -5,22 +5,22 @@ title: References
 
 ## Books
 
-- A Chanting Guide: Pāli Passages with English Translations, by The Dhammayut Order in the United States of America [dhammatalks.org](https://www.dhammatalks.org/ebook_index.html)
-- Tone Rules: for Pāli Chanting in the Thai Tradition [dhammatalks.org](https://www.dhammatalks.org/Archive/Writings/ChantingToneGuide151003.pdf)
-- An Outline of the Metres in the Pāḷi Canon by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Outline/index.htm)
-- A Guide to the Parsing of Pāḷi translated by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/The-Parsing-of-Pali.htm)
-- Main Metres in the Pali Canon by Anandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/Main-Metres.pdf)
-- Pali Prosody: Texts and Studies by Anandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Pali-Prosody/Pali-Prosody.pdf)
-- Light on Pāḷi Pronunciation by Ledi Sayadaw translated by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/Light-on-Pali-Pronunciation.htm)
-- A Guide to the Pronunciation of Pāḷi by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/The-Pronunciation-of-Pali.htm)
-- Introduction to Pali, A.K. Warder (1999)
-- Pali Meter A.K. Warder
-- Von Hinuber's Selected Papers on Pali studies
-- EARLY BUDDHIST ORAL TRADITION Textual Formation and Transmission by BHIKKHU ANĀLAYO 
-- Analysis of the Pattimokkha by Bhikkhu Nyanatusita
-- Authenticity of Early Buddhist Text by Sujato Bhikkhu
-- EBT vs Theravada by Bhikkhu Sujato
-- Begginings by Samanera Bodhesako 
+- **A Chanting Guide: Pāli Passages with English Translations** by The Dhammayut Order in the United States of America [dhammatalks.org](https://www.dhammatalks.org/ebook_index.html)
+- **Tone Rules: for Pāli Chanting in the Thai Tradition** by Thanissaro Bhikkhu ([PDF])(https://www.dhammatalks.org/Archive/Writings/ChantingToneGuide151003.pdf)
+- **An Outline of the Metres in the Pāḷi Canon** by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Outline/index.htm)
+- **A Guide to the Parsing of Pāḷi** translated by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/The-Parsing-of-Pali.htm)
+- **Main Metres in the Pali Canon** by Anandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/Main-Metres.pdf)
+- **Pali Prosody: Texts and Studies** by Anandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Pali-Prosody/Pali-Prosody.pdf)
+- **Light on Pāḷi Pronunciation** by Ledi Sayadaw translated by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/Light-on-Pali-Pronunciation.htm)
+- **A Guide to the Pronunciation of Pāḷi** by Ānandajoti Bhikkhu [ancient-buddhist-texts.net](https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/The-Pronunciation-of-Pali.htm)
+- **Introduction to Pali**, A.K. Warder (1999)
+- **Pali Meter** A.K. Warder
+- Von Hinuber's **Selected Papers on Pali studies**
+- **EARLY BUDDHIST ORAL TRADITION Textual Formation and Transmission** by BHIKKHU ANĀLAYO 
+- **Analysis of the Pattimokkha** by Bhikkhu Nyanatusita
+- **Authenticity of Early Buddhist Text** by Sujato Bhikkhu
+- **EBT vs Theravada** by Bhikkhu Sujato
+- **Begginings** by Samanera Bodhesako 
 
 ## Chanting Books
 
