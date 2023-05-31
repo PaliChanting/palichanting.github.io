@@ -26,7 +26,7 @@ Cut the sentences with the appropriate syllables :
 Yan|taṃ sat|te|hi duk|khe|na ñey|yaṃ a|nat|ta|ak|kha|ṇaṃ  
 `−⏑⏑−∣−⏑−−ⵏⵏ−⏑⏑−−ⵏ⏔⏑⏑⏑∣−⏑⏑⏕⏔ⵏⵏ−−⏑⏑⏒ⵏⵏ⏑⏑−⏓⏑⏑×`
 
-Attavādattasaññāṇaṃ sammadeva vimocanaṃ  
+At∣ta∣vā∣dat∣ta∣sañ∣ñā∣ṇaṃ sammadeva vimocanaṃ  
   
 
 Sambuddho taṃ pakāsesi diṭṭhasaccāna yoginaṃ  
