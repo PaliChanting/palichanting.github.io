@@ -3,7 +3,7 @@ layout: page
 title: Simple Pali Chanting Guide 2.0
 ---
 
-Please do not share publicly.
+Draft - in Construction - Please do not share publicly. 
 
 [Main document](https://docs.google.com/document/d/1mYauJmbzakn-sKsixNkDrtxF8IX_6mIKOFgd5kquMyg/edit)
 
