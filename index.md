@@ -5,9 +5,11 @@ title: Simple Pali Chanting Guide 2.0
 
 Draft - in Construction - Please do not share publicly. 
 
+
+
 [![Screenshot 2023-06-04 142221](https://github.com/PaliChanting/palichanting.github.io/assets/82962905/f4488ed4-7fd6-4a39-b166-762c7a31deb9)](https://docs.google.com/document/d/1mYauJmbzakn-sKsixNkDrtxF8IX_6mIKOFgd5kquMyg/edit)
 
-
+[Test with mdBook](https://cittadhammo.github.io/paliChanting/)
 
 ## To Do
 
